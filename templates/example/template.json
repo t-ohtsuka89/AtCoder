@@ -4,6 +4,6 @@
       "main.py"
     ],
     "submit": "main.py",
-    "testdir": "test"
+    "testdir": "tests"
   }
 }
