@@ -10,7 +10,7 @@ def get_length(start_point: Tuple[int, int], end_point: Tuple[int, int]) -> floa
     return math.sqrt(((x_i - x_j) ** 2) + ((y_i - y_j) ** 2))
 
 
-def get_total_length(path: Iterable[Tuple[int, int]]):
+def get_total_length(path: Tuple[Tuple[int, int]]):
     total_len = 0
     n = len(path)
     for i in range(n - 1):
