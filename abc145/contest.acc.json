@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc145",
+    "title": "AtCoder Beginner Contest 145",
+    "url": "https://atcoder.jp/contests/abc145"
+  },
+  "tasks": [
+    {
+      "id": "abc145_a",
+      "label": "A",
+      "title": "Circle",
+      "url": "https://atcoder.jp/contests/abc145/tasks/abc145_a"
+    },
+    {
+      "id": "abc145_b",
+      "label": "B",
+      "title": "Echo",
+      "url": "https://atcoder.jp/contests/abc145/tasks/abc145_b"
+    },
+    {
+      "id": "abc145_c",
+      "label": "C",
+      "title": "Average Length",
+      "url": "https://atcoder.jp/contests/abc145/tasks/abc145_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc145_d",
+      "label": "D",
+      "title": "Knight",
+      "url": "https://atcoder.jp/contests/abc145/tasks/abc145_d"
+    },
+    {
+      "id": "abc145_e",
+      "label": "E",
+      "title": "All-you-can-eat",
+      "url": "https://atcoder.jp/contests/abc145/tasks/abc145_e"
+    },
+    {
+      "id": "abc145_f",
+      "label": "F",
+      "title": "Laminate",
+      "url": "https://atcoder.jp/contests/abc145/tasks/abc145_f"
+    }
+  ]
+}
