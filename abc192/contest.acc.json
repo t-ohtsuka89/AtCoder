@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "abc192",
+    "title": "AtCoder Beginner Contest 192",
+    "url": "https://atcoder.jp/contests/abc192"
+  },
+  "tasks": [
+    {
+      "id": "abc192_a",
+      "label": "A",
+      "title": "Star",
+      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_a"
+    },
+    {
+      "id": "abc192_b",
+      "label": "B",
+      "title": "uNrEaDaBlE sTrInG",
+      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_b"
+    },
+    {
+      "id": "abc192_c",
+      "label": "C",
+      "title": "Kaprekar Number",
+      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_c"
+    },
+    {
+      "id": "abc192_d",
+      "label": "D",
+      "title": "Base n",
+      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc192_e",
+      "label": "E",
+      "title": "Train",
+      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_e"
+    },
+    {
+      "id": "abc192_f",
+      "label": "F",
+      "title": "Potion",
+      "url": "https://atcoder.jp/contests/abc192/tasks/abc192_f"
+    }
+  ]
+}
