@@ -25,7 +25,11 @@
       "id": "arc089_a",
       "label": "C",
       "title": "Traveling",
-      "url": "https://atcoder.jp/contests/abc086/tasks/arc089_a"
+      "url": "https://atcoder.jp/contests/abc086/tasks/arc089_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc089_b",
