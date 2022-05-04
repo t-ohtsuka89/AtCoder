@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "typical-algorithm",
+    "title": "典型アルゴリズム問題集",
+    "url": "https://atcoder.jp/contests/typical-algorithm"
+  },
+  "tasks": [
+    {
+      "id": "typical_algorithm_a",
+      "label": "A",
+      "title": "二分探索の練習問題",
+      "url": "https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical_algorithm_b",
+      "label": "B",
+      "title": "区間スケジューリング問題",
+      "url": "https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_b"
+    },
+    {
+      "id": "typical_algorithm_c",
+      "label": "C",
+      "title": "巡回セールスマン問題",
+      "url": "https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_c"
+    },
+    {
+      "id": "typical_algorithm_d",
+      "label": "D",
+      "title": "単一始点最短経路問題",
+      "url": "https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_d"
+    },
+    {
+      "id": "typical_algorithm_e",
+      "label": "E",
+      "title": "全点対最短経路問題",
+      "url": "https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_e"
+    },
+    {
+      "id": "typical_algorithm_f",
+      "label": "F",
+      "title": "最小全域木問題",
+      "url": "https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_f"
+    }
+  ]
+}
